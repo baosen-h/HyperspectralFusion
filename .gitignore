@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+DATA/INPUT/*
+DATA/OUTPUT/*
+DATA/OUTPUT_METRIC/*
+DATA/*.mat
+!DATA/INPUT/.gitkeep
+!DATA/INPUT/HR_MSI.mat
+!DATA/INPUT/LR_HSI.mat
+!DATA/REF.mat
+!DATA/OUTPUT/.gitkeep
+
+Methods/
+IMG/*
+!IMG/comparison.png
